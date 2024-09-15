@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Caminho da Imagem
-caminho_imagem = 'C:/Users/Anderson/Desktop/processamentoDigitalDeImagens/diaretdb1/diaretdb1_image019.png'
+caminho_imagem = 'C:/Users/Anderson/Desktop/trabalhoPDI/diaretdb1/diaretdb1_image019.png'
 
 # Carregar Imagem
 imagem = cv2.imread(caminho_imagem)

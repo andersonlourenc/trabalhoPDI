@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Abrir Imagem
-imagem = cv2.imread('C:/Users/Anderson/Desktop/processamentoDigitalDeImagens/imagemCorte/img1.jpg')
+imagem = cv2.imread('C:/Users/Anderson/Desktop/trabalhoPDI/imagemCorte/img1.jpg')
 
 # Diminuir tamanho da Imagem
 scalaPercent = 40

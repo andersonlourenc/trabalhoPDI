@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Carregando Imagens
-Imagem = cv2.imread('C:/Users/Anderson/Desktop/processamentoDigitalDeImagens/diaretdb1/diaretdb1_image003.png')
-Imagem2 = cv2.imread('C:/Users/Anderson/Desktop/processamentoDigitalDeImagens/diaretdb1/diaretdb1_image021.png')
+Imagem = cv2.imread('C:/Users/Anderson/Desktop/TrabalhoPDI/diaretdb1/diaretdb1_image003.png')
+Imagem2 = cv2.imread('C:/Users/Anderson/Desktop/TrabalhoPDI/diaretdb1/diaretdb1_image021.png')
 
 # Diminuindo tamanho das Imagens
 scalaPercent = 20
